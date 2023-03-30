@@ -1,0 +1,9 @@
+{
+  "title_recently_urls": "URLs encurtadas recentemente",
+  "no_shortened_link": "Nenhum link encurtado",
+  "search_again": "Buscar novamente",
+  "type_link_shorten": "Digite um link para encurtá-lo",
+  "error_generating_url": "Erro ao gerar URL",
+  "link_alias_short_url": "Curto: %s",
+  "link_alias_original_url": "Original: %s"
+}

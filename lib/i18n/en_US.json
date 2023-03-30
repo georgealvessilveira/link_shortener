@@ -1,0 +1,9 @@
+{
+  "title_recently_urls": "Recently shortened URLs",
+  "no_shortened_link": "No shortened link",
+  "type_link_shorten": "Type a link to shorten it",
+  "search_again": "Search again",
+  "error_generating_url": "Error generating URL",
+  "link_alias_short_url": "Short: %s",
+  "link_alias_original_url": "Original: %s"
+}
